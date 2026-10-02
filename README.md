@@ -34,7 +34,7 @@ The formulation recorded for one tile was approximately 4-6 g anatase TiO2, 2-3 
 
 ## Authors
 
-Harivardhan K. K. and Karthikeyan O.  
+Harivardhan K. K. 
 Atal Tinkering Lab (ATL), Amrita Vidyalayam, Tiruchirappalli, Tamil Nadu, India.
 
 ## GitHub citation and license
